@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/g.vamsi_officialz/)](https://www.instagram.com/g.vamsi_officialz/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codeX63825404)](https://twitter.com/codeX63825404)
 
-Welcome to my GitHub profile! I'm a student aspiring to become a programmer.
+Welcome to my GitHub profile! I'm a student aspiring to become a Data Analyst.
 
 I am currently pursuing my Bachelor's degree in Bachelor of Computer Applications (BCA) at Indira Gandhi National Open University (IGNOU). Through my academic journey, I have gained a solid foundation in various programming languages, algorithms, data structures, and software development methodologies. I am always eager to expand my knowledge and stay up-to-date with the latest trends and technologies in the field.
 
